@@ -1,0 +1,8 @@
+# حزمة Streamlit: لبناء الواجهة الأمامية (الواجهة الرسومية)
+streamlit
+
+# حزمة Google Generative AI: للاتصال بنموذج Gemini
+google-genai
+
+# حزمة Pillow: لمعالجة الصور (مطلوبة للتعامل مع تحميلات الصور في Streamlit)
+Pillow
